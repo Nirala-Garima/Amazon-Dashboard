@@ -8,3 +8,4 @@ elements include Score cards,clustered charts and map.
 3. Data Cleaning - Cleaning inconsistent data types and adding new colums through DAX and Power Query Editor to project year wise data.
 4. Lastly developing Visualization Models and Formatting them accordingly
 
+![image](https://github.com/Nirala-Garima/Amazon-Dashboard/assets/147384166/fe94c6e7-851e-4a28-b340-33def41d218e)
